@@ -6,11 +6,10 @@
   <packaging>pom</packaging>
 
 <properties>	
-  <groupId>com.example</groupId>
-  <artifactId>parent-pom</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <packaging>pom</packaging>
-</properties>	
+  <groupid>com.example</groupid>
+  <appname>parent-pom</appname>
+  <appversion>0.0.1-SNAPSHOT</appversion>
+ </properties>	
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/javax.servlet/jsp-api -->
 		<dependency>
